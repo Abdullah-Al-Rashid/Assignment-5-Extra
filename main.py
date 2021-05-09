@@ -1,5 +1,8 @@
 import math
-print("A quick and easy solution to finding the Area and Circumference of your Circle by inputting the diameter:")
+
+print(
+    "A quick and easy solution to finding the Area and Circumference of your Circle by inputting the diameter:"
+)
 
 print()
 print("Trying to find out the Area of your Circle?")
